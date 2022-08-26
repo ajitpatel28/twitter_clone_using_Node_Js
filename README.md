@@ -22,10 +22,3 @@
 ******Starting the web Application******
 -> Use `npm install` or `npm i` in the root directory of the project to install dependencies<br>
 
--> ADD "start": "supervisor app.js" script in package.json file<br>
-    to use supervisor as dependency<br>
-
--> Use npm start to start the aplication in development mode<br>
-
-<hr>
-
