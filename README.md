@@ -4,7 +4,7 @@
 ******Technology Used:*****
 -> NodeJS and Express as backend language<br>
 -> MongoDB as Database<br>
--> HTML, CSS and JavaScript along with jQuery<br>
+-> HTML, CSS and JavaScript 
 -> EJS as Template Engine
 
 
